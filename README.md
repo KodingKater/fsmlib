@@ -1,0 +1,3 @@
+#FSMlib
+
+Automaton ftw
