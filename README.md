@@ -1,3 +1,5 @@
-#FSMlib
+# FSM Library
 
-Automaton ftw
+
+Represents a finite state library
+
